@@ -43,17 +43,17 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PycharmProjects/new/Excel/test.py" timestamp="1587213268714">
-        <mark key="[" line="19" column="17" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="18" column="0" />
-        <mark key="." line="19" column="0" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/Vu/graphplot.py" timestamp="1587216743046">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -71,12 +71,11 @@
       <file name="/fragment.py" timestamp="1587359606958">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/PyFEM/Sources/test.py" timestamp="1587367159208">
-        <mark key="'" line="92" column="0" />
-        <mark key="[" line="53" column="8" />
-        <mark key="]" line="56" column="37" />
-        <mark key="." line="92" column="0" />
-        <mark key="^" line="97" column="1" />
+      <file name="$USER_HOME$/PycharmProjects/PyFEM/Sources/test.py" timestamp="1587432117566">
+        <mark key="[" line="4" column="1" />
+        <mark key="]" line="4" column="1" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="1" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/Vu/calculator.py" timestamp="1587215926293">
         <mark key="[" line="2" column="0" />
@@ -95,11 +94,16 @@
         <mark key="." line="129" column="0" />
         <mark key="^" line="124" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/PyFEM/Sources/ShapeFunction.py" timestamp="1587371112002">
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="0" />
-        <mark key="^" line="10" column="61" />
-        <mark key="." line="73" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/PyFEM/PyFEM4/GaussLine.py" timestamp="1587432367900">
+        <mark key="[" line="2" column="33" />
+        <mark key="]" line="2" column="33" />
+        <mark key="." line="2" column="33" />
+        <mark key="^" line="2" column="33" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/PyFEM/Sources/ShapeFunction.py" timestamp="1587430128398">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PyFEM/StudyPython/iterator.py" timestamp="1587370715421">
         <mark key="[" line="21" column="0" />
@@ -113,16 +117,17 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/new/Excel/test3.py" timestamp="1587215572843">
-        <mark key="[" line="1" column="22" />
-        <mark key="]" line="1" column="22" />
-        <mark key="." line="1" column="22" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/PyFEM/Sources/test_Field.py" timestamp="1587370423159">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
         <mark key="^" line="48" column="0" />
         <mark key="." line="38" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/desktop-tutorial/README.md" timestamp="1587431732733">
+        <mark key="[" line="5" column="20" />
+        <mark key="]" line="5" column="20" />
+        <mark key="." line="5" column="19" />
+        <mark key="^" line="5" column="20" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/new/Excel/2.py" timestamp="1587219927492">
         <mark key="[" line="27" column="0" />
@@ -145,18 +150,13 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="18" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/DataStructureAlgorithm/Excel/openpyxl.py" timestamp="1587211727998">
-        <mark key="[" line="1" column="13" />
-        <mark key="]" line="1" column="13" />
-        <mark key="." line="1" column="13" />
-        <mark key="^" line="1" column="38" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/PyFEM/Sources/Field.py" timestamp="1587371138151">
         <mark key="[" line="120" column="0" />
         <mark key="]" line="120" column="0" />
         <mark key="^" line="122" column="8" />
         <mark key="." line="120" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/DataStructureAlgorithm/DesignWithClass/9.1.py" timestamp="1587431550205" />
     </filemarks>
     <jumps>
       <jump line="8" column="4" filename="$USER_HOME$/PycharmProjects/DataStructureAlgorithm/ControlStatements/1.py" />
@@ -174,17 +174,17 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3ZWlnaHRzXD4=</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBmMSh4KToKICAgICAgICByZXR1cm4geCsxCg==</text>
+        <text encoding="base64">CnByaW50KE4yKQpwcmludChOMSk=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -196,22 +196,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YSA9IFF1YWQ4KCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBGdW5jdGlvbiBhcyBhdHRyaWJ1dGUgb2YgYSBjbGFzcwo=</text>
+        <text encoding="base64">YiA9IFF1YWQ0KCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCg==</text>
+        <text encoding="base64">TjEgPSBzaGFwZS5OKGEsIHBvaW50KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ID0gc2hhcGUuTihiLCBwb2ludCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">TjEgPSBzaGFwZS5kZWx0YU4oYSwgcG9pbnQpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

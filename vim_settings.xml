@@ -77,16 +77,16 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="1" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Vu/calculator.py" timestamp="1587215926293">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/PyFEM/StudyPython/function_attribute_class.py" timestamp="1587370994659">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/PyFEM/Sources/julia.jl" timestamp="1587434635750">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PyFEM/Sources/GaussLine.py" timestamp="1587429098357">
         <mark key="[" line="129" column="0" />
@@ -174,8 +174,9 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text>function a
+ru</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -187,7 +188,8 @@
         <text encoding="base64">CnByaW50KE4yKQpwcmludChOMSk=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>function a
+ru</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -196,22 +198,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YSA9IFF1YWQ4KCkK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">YSA9IFF1YWQ4KCkK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">YiA9IFF1YWQ0KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">TjEgPSBzaGFwZS5OKGEsIHBvaW50KQo=</text>
+        <text encoding="base64">YiA9IFF1YWQ0KCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ID0gc2hhcGUuTihiLCBwb2ludCkK</text>
+        <text encoding="base64">TjEgPSBzaGFwZS5OKGEsIHBvaW50KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">TjEgPSBzaGFwZS5kZWx0YU4oYSwgcG9pbnQpCg==</text>
+        <text encoding="base64">ID0gc2hhcGUuTihiLCBwb2ludCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

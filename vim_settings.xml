@@ -132,8 +132,11 @@
         <mark key="]" line="80" column="0" />
         <mark key="." line="80" column="0" />
       </file>
-      <file name="D:/Programming/Python Programming/PyFEM/src/Field.py" timestamp="1587476775278">
-        <mark key="[" line="1" column="29" />
+      <file name="D:/Programming/Python Programming/PyFEM/src/Field.py" timestamp="1587477091490">
+        <mark key="[" line="122" column="21" />
+        <mark key="]" line="122" column="21" />
+        <mark key="^" line="122" column="21" />
+        <mark key="." line="122" column="20" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PyFEM/Sources/test_Field.py" timestamp="1587370423159">
         <mark key="[" line="38" column="0" />
@@ -152,11 +155,11 @@
         <mark key="^" line="21" column="25" />
         <mark key="." line="21" column="25" />
       </file>
-      <file name="D:/Programming/Python Programming/PyFEM/src/ShapeFunction.py" timestamp="1587476376242">
-        <mark key="[" line="63" column="8" />
-        <mark key="]" line="63" column="34" />
-        <mark key="^" line="110" column="34" />
-        <mark key="." line="63" column="0" />
+      <file name="D:/Programming/Python Programming/PyFEM/src/ShapeFunction.py" timestamp="1587477052417">
+        <mark key="[" line="40" column="43" />
+        <mark key="]" line="40" column="44" />
+        <mark key="^" line="41" column="12" />
+        <mark key="." line="40" column="44" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PyFEM/Sources/Field.py" timestamp="1587371138151">
         <mark key="[" line="120" column="0" />
@@ -182,16 +185,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">IyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIiIiQ2hlY2sgaWYgdGhlIGVsZW1lbnQgaXMgUXVhZDgiIiIK</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3ZWlnaHRzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IEJhcjIsIEJhcjMgZWxlbWVudAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIiIiQ2hlY2sgaWYgdGhlIGVsZW1lbnQgaXMgUXVhZDgiIiIK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">IyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQo=</text>

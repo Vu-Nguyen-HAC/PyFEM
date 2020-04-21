@@ -1,0 +1,202 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.7 (Vu)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.4" />
+      <homePath value="C:\Users\Nguyen Vu\PycharmProjects\Vu\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Anaconda3/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/Anaconda3/Lib" type="simple" />
+            <root url="file://$USER_HOME$/Anaconda3" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/Vu/venv" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/Vu/venv/Lib/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/PycharmProjects/Vu/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/Vu/venv/Lib/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.3/system/python_stubs/-1695863829" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/Vu" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (Vu)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.10" />
+      <homePath value="C:\Users\Nguyen Vu\Anaconda3\envs\Vu\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Anaconda3/envs/Vu/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/Anaconda3/envs/Vu/Lib" type="simple" />
+            <root url="file://$USER_HOME$/Anaconda3/envs/Vu/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.3/system/python_stubs/485099427" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/Vu" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (Vu) (2)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.4" />
+      <homePath value="C:\Users\Nguyen Vu\Anaconda3\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Anaconda3/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/Anaconda3/Lib" type="simple" />
+            <root url="file://$USER_HOME$/Anaconda3/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Anaconda3/Lib/site-packages/win32" type="simple" />
+            <root url="file://$USER_HOME$/Anaconda3/Lib/site-packages/win32/lib" type="simple" />
+            <root url="file://$USER_HOME$/Anaconda3/Lib/site-packages/pythonwin" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.3/system/python_stubs/-44224612" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/Vu" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (DataStructureAlgorithm)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.4" />
+      <homePath value="C:\Users\Nguyen Vu\PycharmProjects\DataStructureAlgorithm\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Anaconda3/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/Anaconda3/Lib" type="simple" />
+            <root url="file://$USER_HOME$/Anaconda3" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/DataStructureAlgorithm/venv" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/DataStructureAlgorithm/venv/Lib/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/PycharmProjects/DataStructureAlgorithm/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/DataStructureAlgorithm/venv/Lib/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.3/system/python_stubs/1979752370" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/DataStructureAlgorithm" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (PyFEM)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.4" />
+      <homePath value="C:\Users\Nguyen Vu\PycharmProjects\PyFEM\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Anaconda3/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/Anaconda3/Lib" type="simple" />
+            <root url="file://$USER_HOME$/Anaconda3" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/PyFEM/venv" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/PyFEM/venv/Lib/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/PycharmProjects/PyFEM/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/PyFEM/venv/Lib/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.3/system/python_stubs/-1231262791" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/PyFEM" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (Julia)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.4" />
+      <homePath value="C:\Users\Nguyen Vu\PycharmProjects\Julia\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Anaconda3/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/Anaconda3/Lib" type="simple" />
+            <root url="file://$USER_HOME$/Anaconda3" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/Julia/venv" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/Julia/venv/Lib/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/PycharmProjects/Julia/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/Julia/venv/Lib/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.3/system/python_stubs/332866637" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/Julia" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (new)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.4" />
+      <homePath value="C:\Users\Nguyen Vu\PycharmProjects\new\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Anaconda3/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/Anaconda3/Lib" type="simple" />
+            <root url="file://$USER_HOME$/Anaconda3" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/new/venv" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/new/venv/Lib/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/PycharmProjects/new/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/new/venv/Lib/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.3/system/python_stubs/1203809460" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/new" />
+    </jdk>
+  </component>
+</application>

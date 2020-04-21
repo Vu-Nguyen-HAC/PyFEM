@@ -1,16 +1,26 @@
 """
     Resource to get shape function for Gauss Integration
+    Create by Nguyen Pham Quang Vu on 2020/04/21
 """
 import numpy as np
 
-
-class Quad8:
-    """Quad 8 element type"""
+class Bar2(object):
+    """Bar element with 2 nodes"""
     pass
 
 
-class Quad4:
+class Bar3(object):
+    """Bar element with 3 nodes"""
+    pass
+
+
+class Quad4(object):
     """Quad 4 element type"""
+    pass
+
+
+class Quad8(object):
+    """Quad 8 element type"""
     pass
 
 
@@ -38,7 +48,7 @@ class ShapeFunction(object):
         ##################
         # Quad 8 element:
         ##################
-        if isinstance(self, Quad8):
+        elif isinstance(self, Quad8):
             N = np.zeros(shape=8)
             ξ, η = point
             N[0] = 0.25 * (1 - ξ) * (1 - η) * (-1 - ξ - η)
@@ -50,6 +60,8 @@ class ShapeFunction(object):
             N[6] = 0.5 * (1 - ξ ** 2) * (1 + η)
             N[7] = 0.5 * (1 - ξ) * (1 - η ** 2)
             return N
+
+        # TODO: Bar2, Bar3 element
 
     @staticmethod
     def deltaN(self, point):
@@ -74,7 +86,7 @@ class ShapeFunction(object):
         ##################
         # Quad 8 element:
         ##################
-        if isinstance(self, Quad8):
+        elif isinstance(self, Quad8):
             A = np.zeros(shape=(2, 8))
             ξ, η = point
             A[0, 0] = 0.25 * (1 - η) * (2 * ξ + η)
@@ -95,3 +107,4 @@ class ShapeFunction(object):
             A[1, 7] = -η * (1 - ξ)
             return A
 
+        # TODO: Bar2, Bar3 element

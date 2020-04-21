@@ -38,6 +38,8 @@ class ShapeFunction(object):
         # Quad 4 element:
         ##################
         if isinstance(self, Quad4):
+            """Check if the element is Quad4"""
+
             N = np.zeros(shape=4)  # Declare empty array by numpy
             ξ, η = point
             N[0] = 0.25 * (1-ξ) * (1-η)
@@ -50,6 +52,8 @@ class ShapeFunction(object):
         # Quad 8 element:
         ##################
         elif isinstance(self, Quad8):
+            """Check if the element is Quad8"""
+
             N = np.zeros(shape=8)
             ξ, η = point
             N[0] = 0.25 * (1 - ξ) * (1 - η) * (-1 - ξ - η)

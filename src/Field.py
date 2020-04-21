@@ -121,5 +121,6 @@ class Field(object):
 
 
 class FieldSet(dict):
+    """Create FieldSet class similar to dictionary class"""
     pass
 

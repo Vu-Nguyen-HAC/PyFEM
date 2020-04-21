@@ -1,5 +1,6 @@
 """
     Resources for field class
+    Create by Nguyen_Pham_Quang_Vu on 2020/04/21
 """
 
 
@@ -120,5 +121,6 @@ class Field(object):
 
 
 class FieldSet(dict):
+    """Create FieldSet class similar to dictionary class"""
     pass
 

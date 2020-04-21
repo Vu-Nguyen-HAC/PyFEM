@@ -78,18 +78,4 @@ class ShapeFunction(object):
             A[1, 6] = -0.5 * (1 - η ** 2)
             A[1, 7] = -η * (1 - ξ)
             return A
-# ---------------------------------------------------------------
 
-
-point = (0, 0)
-shape = ShapeFunction()
-N1 = shape.deltaN(Quad4(), point)
-N2 = shape.deltaN(Quad8(), point)
-N3 = shape.N(Quad4(), point)
-N4 = shape.N(Quad8(), point)
-
-print(N2)
-print(N1)
-
-print(N3)
-print(N4)

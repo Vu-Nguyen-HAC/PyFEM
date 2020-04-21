@@ -127,9 +127,13 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="D:/Programming/Python Programming/PyFEM/src/test.py" timestamp="1587475411788">
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="94" column="9" />
+      <file name="D:/Programming/Python Programming/PyFEM/src/test.py" timestamp="1587476745285">
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
+      </file>
+      <file name="D:/Programming/Python Programming/PyFEM/src/Field.py" timestamp="1587476775278">
+        <mark key="[" line="1" column="29" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PyFEM/Sources/test_Field.py" timestamp="1587370423159">
         <mark key="[" line="38" column="0" />
@@ -148,16 +152,11 @@
         <mark key="^" line="21" column="25" />
         <mark key="." line="21" column="25" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/new/Excel/2.py" timestamp="1587219927492">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-      </file>
-      <file name="D:/Programming/Python Programming/PyFEM/src/ShapeFunction.py" timestamp="1587476024728">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="21" column="17" />
-        <mark key="^" line="37" column="0" />
-        <mark key="." line="21" column="17" />
+      <file name="D:/Programming/Python Programming/PyFEM/src/ShapeFunction.py" timestamp="1587476376242">
+        <mark key="[" line="63" column="8" />
+        <mark key="]" line="63" column="34" />
+        <mark key="^" line="110" column="34" />
+        <mark key="." line="63" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PyFEM/Sources/Field.py" timestamp="1587371138151">
         <mark key="[" line="120" column="0" />
@@ -182,44 +181,55 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3ZWlnaHRzXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICAjIyMjIyMjIyMjIyMjIyMjIyMKICAgICAgICAjIFF1YWQgNCBlbGVtZW50OgogICAgICAgICMjIyMjIyMjIyMjIyMjIyMjIwog</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAjIFRPRE86IEJhcjIsIEJhcjMgZWxlbWVudAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">IyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQo=</text>
       </register>
-      <register name="2" type="2">
+      <register name="2" type="4">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIFF1YWQ4IGVsZW1lbnQK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIFF1YWQ0IGVsZW1lbnQK</text>
+      <register name="4" type="4">
+        <text>point = (0, 0)
+shape = ShapeFunction()
+N1 = shape.deltaN(Quad4(), point)
+N2 = shape.deltaN(Quad8(), point)
+N3 = shape.N(Quad4(), point)
+N4 = shape.N(Quad8(), point)
+
+print(N2)
+print(N1)
+
+print(N3)
+print(N4)</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">CmNsYXNzIFF1YWQ4OgogICAgIiIiUXVhZCA4IGVsZW1lbnQgdHlwZSIiIgogICAgcGFzcw==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAjIFF1YWQ4IGVsZW1lbnQK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIFF1YWQgNCBlbGVtZW50Ogo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

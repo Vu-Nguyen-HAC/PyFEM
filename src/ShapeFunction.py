@@ -1,11 +1,16 @@
+"""
+    Resource to get shape function for Gauss Integration
+"""
 import numpy as np
 
+
 class Quad8:
+    """Quad 8 element type"""
     pass
-#=====
 
 
 class Quad4:
+    """Quad 4 element type"""
     pass
 
 
@@ -14,10 +19,13 @@ class ShapeFunction(object):
      Shape function of Quad 4 element
     """
 
-    @staticmethod    # Use @staticmethod to get the function attribute of a class in Python
+    @staticmethod
     def N(self, point):
+        """Calculate the value of shape functions at  a specific point"""
 
-        # Quad4 element
+        ##################
+        # Quad 4 element:
+        ##################
         if isinstance(self, Quad4):
             N = np.zeros(shape=4)  # Declare empty array by numpy
             ξ, η = point
@@ -27,7 +35,9 @@ class ShapeFunction(object):
             N[3] = 0.25 * (1-ξ) * (1+η)
             return N
 
-        # Quad8 element
+        ##################
+        # Quad 8 element:
+        ##################
         if isinstance(self, Quad8):
             N = np.zeros(shape=8)
             ξ, η = point
@@ -43,9 +53,13 @@ class ShapeFunction(object):
 
     @staticmethod
     def deltaN(self, point):
+        """Calculate the value of the derivative of shape functions at  a specific point"""
+
+        ##################
         # Quad 4 element:
+        ##################
         if isinstance(self, Quad4):
-            A = np.zeros(shape=(2, 4))  # This is the way to declare empty matrix by numpy
+            A = np.zeros(shape=(2, 4))
             ξ, η = point
             A[0, 0] = 0.25 * (-1+η)
             A[0, 1] = 0.25 * (-1+ξ)
@@ -57,7 +71,9 @@ class ShapeFunction(object):
             A[1, 3] = 0.25 * ( 1-ξ)
             return A
 
-        # Quad 4 element:
+        ##################
+        # Quad 8 element:
+        ##################
         if isinstance(self, Quad8):
             A = np.zeros(shape=(2, 8))
             ξ, η = point
@@ -78,6 +94,4 @@ class ShapeFunction(object):
             A[1, 6] = -0.5 * (1 - η ** 2)
             A[1, 7] = -η * (1 - ξ)
             return A
-# ---------------------------------------------------------------
-
 

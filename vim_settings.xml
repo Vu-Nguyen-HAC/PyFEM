@@ -1,0 +1,247 @@
+<application>
+  <component name="VimEditorSettings">
+    <editor />
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry encoding="base64">XDxlYWNoUGFzc1w+</entry>
+        <entry encoding="base64">XDxjaGFyYWN0b3JcPg==</entry>
+        <entry encoding="base64">XDxkZWZcPg==</entry>
+        <entry encoding="base64">XDxpZlw+</entry>
+        <entry encoding="base64">XDxmb3JcPg==</entry>
+        <entry encoding="base64">XDxnbFw+</entry>
+        <entry encoding="base64">XDx3ZWlnaHRzXD4=</entry>
+      </history-search>
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimKeySettings">
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/PycharmProjects/PyFEM/Sources/test_GaussLine.py" timestamp="1587432860058">
+        <mark key="[" line="31" column="1" />
+        <mark key="]" line="31" column="1" />
+        <mark key="^" line="54" column="8" />
+        <mark key="." line="31" column="1" />
+      </file>
+      <file name="/Python Console" timestamp="1587369929022">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1587359606958">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/PyFEM/Sources/test.py" timestamp="1587432117566">
+        <mark key="[" line="4" column="1" />
+        <mark key="]" line="4" column="1" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="1" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/untitled/src/1.jl" timestamp="1587470624591">
+        <mark key="[" line="5" column="2" />
+        <mark key="]" line="9" column="3" />
+        <mark key="^" line="9" column="3" />
+        <mark key="." line="9" column="2" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/untitled1/src/1.jl" timestamp="1587473054767">
+        <mark key="[" line="16" column="17" />
+        <mark key="]" line="15" column="6" />
+        <mark key="." line="15" column="5" />
+        <mark key="^" line="15" column="6" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/PyFEM/StudyPython/function_attribute_class.py" timestamp="1587370994659">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/PyFEM/Sources/julia.jl" timestamp="1587434635750">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/PyFEM/Sources/GaussLine.py" timestamp="1587429098357">
+        <mark key="[" line="129" column="0" />
+        <mark key="]" line="129" column="0" />
+        <mark key="." line="129" column="0" />
+        <mark key="^" line="124" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/PyFEM/PyFEM4/GaussLine.py" timestamp="1587432367900">
+        <mark key="[" line="2" column="33" />
+        <mark key="]" line="2" column="33" />
+        <mark key="." line="2" column="33" />
+        <mark key="^" line="2" column="33" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/PyFEM/Sources/ShapeFunction.py" timestamp="1587473396379">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/PyFEM/StudyPython/iterator.py" timestamp="1587370715421">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="22" column="12" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/PyFEM/Sources/test_ShapeFunction.py" timestamp="1587370518637">
+        <mark key="[" line="0" column="44" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/PyFEM/Sources/test_Field.py" timestamp="1587370423159">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="^" line="48" column="0" />
+        <mark key="." line="38" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/desktop-tutorial/README.md" timestamp="1587468703495">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/new/Excel/2.py" timestamp="1587219927492">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
+      <file name="D:/Programming/Python Programming/PyFEM/src/ShapeFunction.py" timestamp="1587474997268">
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="0" />
+        <mark key="^" line="64" column="12" />
+        <mark key="." line="83" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/new/Excel/saveimage.py" timestamp="1587219135185">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="38" />
+        <mark key="^" line="9" column="35" />
+        <mark key="." line="9" column="35" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/new/Excel/example3.py" timestamp="1587219254930">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/PyFEM/Sources/Field.py" timestamp="1587371138151">
+        <mark key="[" line="120" column="0" />
+        <mark key="]" line="120" column="0" />
+        <mark key="^" line="122" column="8" />
+        <mark key="." line="120" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="8" column="4" filename="$USER_HOME$/PycharmProjects/DataStructureAlgorithm/ControlStatements/1.py" />
+      <jump line="49" column="3" filename="$USER_HOME$/PycharmProjects/DataStructureAlgorithm/ControlStatements/1.py" />
+      <jump line="68" column="4" filename="$USER_HOME$/PycharmProjects/DataStructureAlgorithm/ControlStatements/1.py" />
+      <jump line="20" column="4" filename="$USER_HOME$/PycharmProjects/DataStructureAlgorithm/DesignWithClass/9.3.py" />
+      <jump line="93" column="4" filename="$USER_HOME$/PycharmProjects/DataStructureAlgorithm/DesignWithClass/9.6.py" />
+      <jump line="5" column="51" filename="$USER_HOME$/PycharmProjects/DataStructureAlgorithm/GUI/7.py" />
+      <jump line="32" column="0" filename="$USER_HOME$/PycharmProjects/PyFEM/Sources/Field.py" />
+      <jump line="12" column="11" filename="$USER_HOME$/PycharmProjects/PyFEM/Sources/test.py" />
+      <jump line="92" column="0" filename="$USER_HOME$/PycharmProjects/PyFEM/Sources/test.py" />
+      <jump line="120" column="0" filename="$USER_HOME$/PycharmProjects/PyFEM/Sources/GaussLine.py" />
+      <jump line="104" column="8" filename="$USER_HOME$/PycharmProjects/PyFEM/Sources/GaussLine.py" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cgo=</text>
+      </register>
+      <register name="-" type="4">
+        <text>4</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDx3ZWlnaHRzXD4=</text>
+      </register>
+      <register name="0" type="4">
+        <text encoding="base64">ICMgUXVhZCA0IGVsZW1lbnQgCiAgICAgICAgaWYgaXNpbnN0YW5jZShzZWxmKSA9PSBRdWFkNDoKICAgICAgICA=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cgo=</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">CmNsYXNzIFNoYXBlRnVuY3Rpb25RdWFkODoKICAgICIiIgogICAgICAgICBTaGFwZSBmdW5jdGlvbiBvZiBRdWFkIDggZWxlbWVudAogICAgIiIiCgogICAgQHN0YXRpY21ldGhvZAogICAgZGVmIE4ocG9pbnQpOgoKICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBkZWx0YU4ocG9pbnQpOgogICAgIA==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgQSA9IG5wLnplcm9zKHNoYXBlPSgyLCA4KSkKICAgICAgICA/LCA/ID0gcG9pbnQKICAgICAgICBBWzAsIDBdID0gMC4yNSAqICgxIC0gPykgKiAoMio/Kz8pCiAgICAgICAgQVswLCAxXSA9IDAuMjUgKiAoMSAtID8pICogKDIqPys/KQogICAgICAgIEFbMCwgMl0gPSAwLjI1ICogKDEgLSA/KSAqICgyKj8tPykKICAgICAgICBBWzAsIDNdID0gMC4yNSAqICgxICsgPykgKiAoMio/LT8pCiAgICAgICAgQVswLCA0XSA9IDAuMjUgKiAoMSArID8pICogKDIqPys/KQogICAgICAgIEFbMCwgNV0gPSAwLjI1ICogKDEgKyA/KSAqICgyKj8rPykKICAgICAgICBBWzAsIDZdID0gMC4yNSAqICgxICsgPykgKiAoMio/LT8pCiAgICAgICAgQVswLCA3XSA9IDAuMjUgKiAoMSAtID8pICogKDIqPy0/KQogICAgICAgIEFbMSwgMF0gPSAtPyAqICgxIC0gPykKICAgICAgICBBWzEsIDFdID0gLTAuNSAqICgxIC0gPyAqKiAyKQogICAgICAgIEFbMSwgMl0gPSAwLjUgKiAoMSAtID8gKiogMikKICAgICAgICBBWzEsIDNdID0gLT8gKiAoMSArID8pCiAgICAgICAgQVsxLCA0XSA9IC0/ICogKDEgKyA/KQogICAgICAgIEFbMSwgNV0gPSAwLjUgKiAoMSAtID8gKiogMikKICAgICAgICBBWzEsIDZdID0gLTAuNSAqICgxIC0gPyAqKiAyKQogICAgICAgIEFbMSwgN10gPSAtPyAqICgxIC0gPykKICAgICAgICByZXR1cm4gQQ==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgICBBID0gbnAuemVyb3Moc2hhcGU9OCkKICAgICAgICA/LCA/ID0gcG9pbnQKICAgICAgICBBWzBdID0gMC4yNSAqICgxIC0gPykgKiAoMSAtID8pICogKC0xIC0gPyAtID8pCiAgICAgICAgQVsxXSA9IDAuMjUgKiAoMSArID8pICogKDEgLSA/KSAqICgtMSArID8gLSA/KQogICAgICAgIEFbMl0gPSAwLjI1ICogKDEgKyA/KSAqICgxICsgPykgKiAoLTEgKyA/ICsgPykKICAgICAgICBBWzNdID0gMC4yNSAqICgxIC0gPykgKiAoMSArID8pICogKC0xIC0gPyArID8pCiAgICAgICAgQVs0XSA9IDAuNSAqICgxIC0gPyAqKiAyKSAqICgxIC0gPykKICAgICAgICBBWzVdID0gMC41ICogKDEgKyA/KSAqICgxIC0gPyAqKiAyKQogICAgICAgIEFbNl0gPSAwLjUgKiAoMSAtID8gKiogMikgKiAoMSArID8pCiAgICAgICAgQVs3XSA9IDAuNSAqICgxIC0gPykgKiAoMSAtID8gKiogMikKICAgICAgICByZXR1cm4gQQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">IiIiQ2xhc3Mgb2YgUXVhZCA0IGVsZW1lbnQiIiIK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">IiIiQ2xhc3Mgb2YgUXVhZCA4IGVsZW1lbnQiIiIK</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search encoding="base64">XDx3ZWlnaHRzXD4=</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDx3ZWlnaHRzXD4=</last-pattern>
+      <last-dir>-1</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="true" />
+    <notifications>
+      <idea-join enabled="true" />
+      <idea-put enabled="false" />
+    </notifications>
+  </component>
+</application>

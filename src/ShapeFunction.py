@@ -4,6 +4,7 @@
 """
 import numpy as np
 
+
 class Bar2(object):
     """Bar element with 2 nodes"""
     pass

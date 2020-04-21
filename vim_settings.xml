@@ -86,11 +86,11 @@
         <mark key="^" line="9" column="3" />
         <mark key="." line="9" column="2" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/untitled1/src/1.jl" timestamp="1587471127530">
-        <mark key="[" line="6" column="2" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/untitled1/src/1.jl" timestamp="1587471771718">
+        <mark key="[" line="6" column="7" />
+        <mark key="]" line="6" column="8" />
+        <mark key="." line="6" column="7" />
+        <mark key="^" line="6" column="8" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PyFEM/StudyPython/function_attribute_class.py" timestamp="1587370994659">
         <mark key="[" line="5" column="0" />
@@ -184,7 +184,24 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CldyaXRlIHlvdXIgbmFtZSBvbiBsaW5lIDYsIHNhdmUgaXQsIGFuZCB0aGVuIGhlYWQgYmFjayB0byBHaXRIdWIgRGVza3RvcC4KTmd1eWVuIFBoYW0gUXVhbmcgVlUKCg==</text>
+        <text>#=
+
+1:
+- Julia version: 
+- Author: Nguyen Vu
+- Date: 2020-04-21
+=#
+@show a = 1
+
+
+function f1()
+    a =[i for i=1:10]
+    print(a)
+    @show a
+end
+
+
+f1()</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -196,29 +213,46 @@
         <text encoding="base64">CnByaW50KE4yKQpwcmludChOMSk=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CldyaXRlIHlvdXIgbmFtZSBvbiBsaW5lIDYsIHNhdmUgaXQsIGFuZCB0aGVuIGhlYWQgYmFjayB0byBHaXRIdWIgRGVza3RvcC4KTmd1eWVuIFBoYW0gUXVhbmcgVlUKCg==</text>
+        <text>#=
+
+1:
+- Julia version: 
+- Author: Nguyen Vu
+- Date: 2020-04-21
+=#
+@show a = 1
+
+
+function f1()
+    a =[i for i=1:10]
+    print(a)
+    @show a
+end
+
+
+f1()</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YW5kIHRoZW4geW91IGVkaXQgc29tZXRoaW5nIGVsc2UK</text>
+        <text encoding="base64">ZW5kCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CmZ1bmN0aW9uIGFmdW5jdGlvbiBhZnVuY3Rpb24gYQpydQpuY3Rpb24gYWZ1bmN0aW9uIGEKZnVuY3Rpb24gYQpydQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text>function a
-ru</text>
+        <text encoding="base64">ZnVuY3Rpb24gZjEoKWEgPSAxCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CldyaXRlIHlvdXIgbmFtZSBvbiBsaW5lIDYsIHNhdmUgaXQsIGFuZCB0aGVuIGhlYWQgYmFjayB0byBHaXRIdWIgRGVza3RvcC4KTmd1eWVuIFBoYW0gUXVhbmcgVlUKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YW5kIHRoZW4geW91IGVkaXQgc29tZXRoaW5nIGVsc2UK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">CmZ1bmN0aW9uIGFmdW5jdGlvbiBhZnVuY3Rpb24gYQpydQpuY3Rpb24gYWZ1bmN0aW9uIGEKZnVuY3Rpb24gYQpydQ==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YSA9IFF1YWQ4KCkK</text>
+        <text>function a
+ru</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>

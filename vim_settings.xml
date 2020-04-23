@@ -81,11 +81,11 @@
         <mark key="^" line="9" column="3" />
         <mark key="." line="9" column="2" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/untitled1/src/1.jl" timestamp="1587473054767">
-        <mark key="[" line="16" column="17" />
-        <mark key="]" line="15" column="6" />
-        <mark key="." line="15" column="5" />
-        <mark key="^" line="15" column="6" />
+      <file name="$USER_HOME$/PycharmProjects/untitled1/src/1.jl" timestamp="1587478550675">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PyFEM/StudyPython/function_attribute_class.py" timestamp="1587370994659">
         <mark key="[" line="5" column="0" />
@@ -185,7 +185,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIiIiQ2hlY2sgaWYgdGhlIGVsZW1lbnQgaXMgUXVhZDgiIiIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -197,15 +197,43 @@
         <text encoding="base64">ICAgICAgICAgICAgIiIiQ2hlY2sgaWYgdGhlIGVsZW1lbnQgaXMgUXVhZDgiIiIK</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
+        <text>function swap(a::Int64, b::Int64)
+    b, a = a, b
+    @show a
+    @show b
+end
+
+swap(1, 2)
+
+
+struct Foo
+       bar
+       baz::Int
+       qux::Float64
+end
+
+@show foo = Foo(&quot;Hello, world.&quot;, 23, 1.5)
+@show typeof(foo)</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">dXNpbmcgRGF0YUZyYW1lcwo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">IyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="6" type="4">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="8" type="4">
         <text>point = (0, 0)
 shape = ShapeFunction()
 N1 = shape.deltaN(Quad4(), point)
@@ -219,20 +247,8 @@ print(N1)
 print(N3)
 print(N4)</text>
       </register>
-      <register name="5" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CmNsYXNzIFF1YWQ4OgogICAgIiIiUXVhZCA4IGVsZW1lbnQgdHlwZSIiIgogICAgcGFzcw==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIFF1YWQ4IGVsZW1lbnQK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
